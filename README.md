@@ -4,7 +4,9 @@ Gubanc játék megoldásának keresése backtrack algoritmus segítségével.
 
 A samples könyvtárban a példa keresés eredmények képei találhatóak. 
 
-A képekhez magyarázat: keresés paramétere, hogy az első találatnál megálljon, vagy folytassa tovább a keresést. Utóbbi esetben egy talált konfigurációnak a 90/180/270 fokkal elforgatott eseteit is meg fogja találni az algoritmus, tehát az egy helyett 2-4 azonos találat lehet.
+A keresés paramétere, hogy az első találatnál megálljon, vagy folytassa tovább a keresést. Utóbbi esetben egy talált konfigurációnak a 90/180/270 fokkal elforgatott eseteit is meg fogja találni az algoritmus, tehát az egy helyett 2-4 azonos találat lehet. 
+
+A képeken látható megoldások/találatok ezek alapján:
 - test3X3.png  - 4 megoldás = 1 valódi találat * 4 elforgatási iránnyal
 - test4X2.png  - 2 megoldás = 1 valódi találat * 2 elforgatási iránnyal
 - test4X4.png  - 4 megoldás = 1 valódi találat * 4 elforgatási iránnyal
