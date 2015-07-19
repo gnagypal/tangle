@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangled.Core", "Tangled.Core\Tangled.Core.csproj", "{4499B77F-179C-4E5E-B4E8-12C84156684B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangle.Core", "Tangle.Core\Tangle.Core.csproj", "{4499B77F-179C-4E5E-B4E8-12C84156684B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangled.Core.Tests", "Tangled.Core.Tests\Tangled.Core.Tests.csproj", "{472D1B40-9FCD-4BEA-931D-2FBBDE0AA908}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangle.Core.Tests", "Tangle.Core.Tests\Tangle.Core.Tests.csproj", "{472D1B40-9FCD-4BEA-931D-2FBBDE0AA908}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F386B86-0829-4C19-9FFB-A35EB2EAB4BD}"
 	ProjectSection(SolutionItems) = preProject

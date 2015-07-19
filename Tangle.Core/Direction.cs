@@ -1,4 +1,4 @@
-﻿namespace Tangled.Core
+﻿namespace Tangle.Core
 {
     /// <summary>
     /// In clockwise order, starting from top

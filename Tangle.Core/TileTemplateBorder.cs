@@ -1,4 +1,4 @@
-﻿namespace Tangled.Core
+﻿namespace Tangle.Core
 {
     using System;
     using System.Drawing;

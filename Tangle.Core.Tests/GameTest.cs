@@ -1,4 +1,4 @@
-﻿namespace Tangled.Core.Tests
+﻿namespace Tangle.Core.Tests
 {
     using System;
     using System.Diagnostics;
@@ -6,7 +6,7 @@
     using System.Drawing.Imaging;
 
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using Tangled.Core;
+    using Tangle.Core;
 
     [TestClass]
     public class GameTest

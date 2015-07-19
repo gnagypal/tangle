@@ -8,8 +8,8 @@
     <ProjectGuid>{4499B77F-179C-4E5E-B4E8-12C84156684B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tangled.Core</RootNamespace>
-    <AssemblyName>Tangled.Core</AssemblyName>
+    <RootNamespace>Tangle.Core</RootNamespace>
+    <AssemblyName>Tangle.Core</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>

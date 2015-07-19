@@ -6,8 +6,8 @@
     <ProjectGuid>{472D1B40-9FCD-4BEA-931D-2FBBDE0AA908}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tangled.Core.Tests</RootNamespace>
-    <AssemblyName>Tangled.Core.Tests</AssemblyName>
+    <RootNamespace>Tangle.Core.Tests</RootNamespace>
+    <AssemblyName>Tangle.Core.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -57,9 +57,9 @@
     <Compile Include="PaintedTileTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tangled.Core\Tangled.Core.csproj">
+    <ProjectReference Include="..\Tangle.Core\Tangle.Core.csproj">
       <Project>{4499b77f-179c-4e5e-b4e8-12c84156684b}</Project>
-      <Name>Tangled.Core</Name>
+      <Name>Tangle.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
