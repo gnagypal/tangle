@@ -12,4 +12,5 @@ A képekhez magyarázat: keresés paramétere, hogy az első találatnál megál
 
 A legutolsónál a 9-es és 10-es kártyák színezése egyforma, így a megoldásban felcserélhető a helyük, mert ugyanazt a színezést adják. Emiatt van plusz dupla szorzó a megoldások számánál.
 
-A keresést Tangle.Core.Tests / GameTest.cs -ben található unit tesztekkel lehet elindítani.
+A program Visual Studio 2013-mal készült, de Visual Studio 2012 alól is megnyithatónak kell lennie.
+A keresést Tangle.Core.Tests / GameTest.cs -ben található unit tesztekkel lehet elindítani. A teszt eredményként készülő kép a Tangle.Core.Tests\bin\Debug\ könyvtárba kerül.
